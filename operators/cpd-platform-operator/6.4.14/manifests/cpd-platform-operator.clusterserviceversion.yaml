@@ -591,7 +591,7 @@ spec:
   - name: cpdbr-velero-plugin-3
     image: registry.marketplace.redhat.com/cpopen/cpd/cpdbr-velero-plugin@sha256:7c3017a2752c6ec2d1e53772a0108118d86047757b93282444fb2f4d62c5fa18
   - name: cpd-toolbox
-    image: registry.marketplace.redhat.com/cpopen/cpd/cpd-toolbox@sha256:eb55d61c1725c45339a13adcaa67b22114f79887570bb8b7caff92e39b4d6adf
+    image: registry.marketplace.redhat.com/cpopen/cpd/cpd-toolbox@sha256:b80b42dc19b6ccfd43f1dc65b6a9c617cc45109cf3da536ae5355349b3cfd0b5
   - name: cpdtool
     image: registry.marketplace.redhat.com/cpopen/cpd/cpdtool@sha256:4d9eb3a27925c817a988e6994be2375dd5fa37b0f2a7c8f47f764385ff7f0053
   - name: cpdtool-1
